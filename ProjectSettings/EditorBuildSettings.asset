@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 0ce18d5545384da459b6941bfb708399
+  - enabled: 1
+    path: Assets/Scenes/HumanVsAI.unity
+    guid: f0b03142733c1e641bea7e4ea22e8460
+  - enabled: 1
+    path: Assets/Scenes/HumanVsHuman.unity
+    guid: a810747012d6746498a36a2ec272ce28
   m_configObjects: {}

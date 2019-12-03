@@ -4517,7 +4517,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 84c624fdd7e100f41beb2b263771beaf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainPlayer: {fileID: 1758863495}
+  mainPlayer: {fileID: 0}
 --- !u!4 &1393393286
 Transform:
   m_ObjectHideFlags: 0
@@ -5893,8 +5893,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f7cff2b3e7989b4da784c6693b37414, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  FinishText: {fileID: 698065124}
-  time: {fileID: 545738063}
+  finishText: {fileID: 0}
+  backMenu: {fileID: 0}
 --- !u!54 &1758863497
 Rigidbody:
   m_ObjectHideFlags: 0

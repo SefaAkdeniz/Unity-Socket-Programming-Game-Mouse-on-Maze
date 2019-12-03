@@ -4,7 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ConnectSocket : MonoBehaviour
+public class connectSocket : MonoBehaviour
 {
     SimpleClient sc;
     public Transform mainPlayer;

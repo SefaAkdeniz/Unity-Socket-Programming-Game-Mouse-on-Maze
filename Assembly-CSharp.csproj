@@ -53,11 +53,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Codes\backMenu.cs" />
      <Compile Include="Assets\Codes\bot.cs" />
-     <Compile Include="Assets\Codes\ConnectSocket.cs" />
-     <Compile Include="Assets\Codes\Kontrol.cs" />
-     <Compile Include="Assets\Codes\Menu.cs" />
-     <Compile Include="Assets\Codes\SimpleClient.cs" />
+     <Compile Include="Assets\Codes\connectSocket.cs" />
+     <Compile Include="Assets\Codes\menu.cs" />
+     <Compile Include="Assets\Codes\mouseControl.cs" />
+     <Compile Include="Assets\Codes\simpleClient.cs" />
      <Compile Include="Assets\Codes\timeControl.cs" />
      <Compile Include="Assets\RPG Food &amp; Drinks Pack\Assets\Scripts\Consumer.cs" />
      <Compile Include="Assets\RPG Food &amp; Drinks Pack\Assets\Scripts\Rotator.cs" />

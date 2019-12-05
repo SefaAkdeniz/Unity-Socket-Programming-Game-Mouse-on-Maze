@@ -35,6 +35,7 @@ public class Kontrol : MonoBehaviour
         {
             this.transform.Translate(-1 * speed * Time.deltaTime, 0, 0);          
         }
+        
     }
 
     private void OnTriggerEnter(Collider other)

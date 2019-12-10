@@ -1,11 +1,13 @@
 Win64
 PlayerPath?
-C:/Users/sefa/Desktop/11111111/Mouse On Maze.exe
+C:/Users/sefa/Desktop/V FİNAL/Mouse On Maze.exe
 SceneListBegin?
 Assets/Scenes/menu.unity
 Assets/Scenes/HumanVsAI.unity
 Assets/Scenes/HumanVsHuman.unity
+Assets/Scenes/SinglePlayer.unity
 SceneListEnd?
+f556e749225e3145bef7626428f736bd Assembly-CSharp.dll:.rakipkontrol
 984dcc0ba3707b7691fbdca8ff508d28 Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 01aa15e337e3a9c62f15153dfac6d589 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
 71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset
@@ -117,13 +119,13 @@ d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.Spa
 303ad70ce203ad874efe2965d0fbcff9 Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsEventTracker
 7fb9de8dcf73854b6b328eca1f7a6e6d Unity.Analytics.Tracker.dll:UnityEngine.Analytics.AnalyticsTracker
 94017dcc9f00fe671ea7dc427b4da011 Unity.TextMeshPro.dll:TMPro.TMP_SpriteAsset
-5a22288bde724ea1fbf20c72ec68fed8 Assembly-CSharp.dll:.SocketProcess
+b126e6a56a23f41a24cd0112b916fe1b Assembly-CSharp.dll:.SocketProcess
 d77094fd59ec2e36ca424a71dc7fd34d Assembly-CSharp.dll:.timeControl
 b3ab2106268377ffe25dd18ac23dca28 Unity.TextMeshPro.dll:TMPro.TMP_Asset
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Menu
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.Analytics.Editor.dll:UnityEditor.Analytics.AnalyticsEventTrackerEditor
 71bb6a6b6c8f052f948db64c7dd3ca4f Unity.TextMeshPro.dll:TMPro.TMP_SpriteAnimator
-98f8ed29c1a82c0ecc850853302f7b53 Assembly-CSharp.dll:.bot
+a8dae1fecee91cea6eacb82bc1d98b2c Assembly-CSharp.dll:.bot
 4fd8bf02e3089425d3502e26c44ba31a Unity.TextMeshPro.dll:TMPro.TextContainer
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Rotator
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.Consumer
@@ -157,7 +159,7 @@ fb6a1ea36b4f6ef5948d283d93760765 UnityEngine.GoogleAudioSpatializer.dll:UnityEng
 fb6a1ea36b4f6ef5948d283d93760765 UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioRoom
 5b0391b7e3d9ea9db6c0a8fbd0ca23f6 UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSoundfieldExtension
 5b0391b7e3d9ea9db6c0a8fbd0ca23f6 UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSourceExtension
-08c87d99ba278dee93dc2a92323c7967 Assembly-CSharp.dll:.Kontrol
+c0ec3ca817f9d8bea8ea315485ae5960 Assembly-CSharp.dll:.Kontrol
 a4f0a4f62100f1a4fb5cbe0e00dde83f Unity.TextMeshPro.dll:TMPro.TextMeshProUGUI
 5fc094978ce3e3591a7500ed380d854a Unity.Analytics.DataPrivacy.dll:UnityEngine.Analytics.DataPrivacyButton
 d251bf88db6c95a6b1aa0b69298da9ef UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver

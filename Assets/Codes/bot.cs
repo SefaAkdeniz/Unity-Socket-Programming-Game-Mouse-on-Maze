@@ -8,6 +8,7 @@ using UnityEngine.UI;
 public class bot : MonoBehaviour
 {
     public Text finishText;
+    public GameObject GOfinishText;
     public GameObject backMenu;
     NavMeshAgent agent;
     public Transform cheese;
@@ -27,6 +28,7 @@ public class bot : MonoBehaviour
     }
     private void OnTriggerEnter(Collider other)
     {
+        GOfinishText.SetActive(true);
         finishText.text = "OYUN BİTTİ BİLGİSAYAR KAZANDI";
         Time.timeScale = 0.0f;
         backMenu.SetActive(true);

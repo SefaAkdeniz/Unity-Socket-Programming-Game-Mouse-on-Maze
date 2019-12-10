@@ -57,11 +57,12 @@
      <Compile Include="Assets\Codes\ConnectSocket.cs" />
      <Compile Include="Assets\Codes\Kontrol.cs" />
      <Compile Include="Assets\Codes\Menu.cs" />
+     <Compile Include="Assets\Codes\rakipkontrol.cs" />
      <Compile Include="Assets\Codes\SimpleClient.cs" />
+     <Compile Include="Assets\Codes\SocketProcess.cs" />
      <Compile Include="Assets\Codes\timeControl.cs" />
      <Compile Include="Assets\RPG Food &amp; Drinks Pack\Assets\Scripts\Consumer.cs" />
      <Compile Include="Assets\RPG Food &amp; Drinks Pack\Assets\Scripts\Rotator.cs" />
-     <Compile Include="Assets\SocketProcess.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/sefa/Desktop/Unity-Socket-Programming-Game-Mouse-on-Maze/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>

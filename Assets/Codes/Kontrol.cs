@@ -2,13 +2,20 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+using UnityEngine.SceneManagement;
 
 public class Kontrol : MonoBehaviour
 {
-    public Text FinishText;
+    public GameObject FinishText;
     public Text time;
+    public GameObject backMenu;
     int speed = 2;
+    
+    void Start()
+    {
+        Time.timeScale = 1.0f;
+    }
+        
     void Update()
     {
 
@@ -37,10 +44,14 @@ public class Kontrol : MonoBehaviour
         }
         
     }
-
     private void OnTriggerEnter(Collider other)
     {
-        FinishText.text = "Congratulations !"  + time.text + "Second";
-        time.text = "";
+        FinishText.SetActive(true);
+        Time.timeScale = 0.0f;
+        backMenu.SetActive(true);
+    }
+    public void Anasayfa()
+    {
+        SceneManager.LoadScene("menu"); ;
     }
 }

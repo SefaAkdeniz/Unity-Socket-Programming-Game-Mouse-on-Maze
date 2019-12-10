@@ -17,4 +17,8 @@ public class Menu : MonoBehaviour
     {
         Application.Quit();
     }
+    public void Single()
+    {
+        SceneManager.LoadScene("SinglePlayer"); ;
+    }
 }
